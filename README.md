@@ -1,6 +1,6 @@
 # CircleCI Demo React JS App
 
-[Passo a Passo para criação deste projeto](https://circleci.com/docs/2.0/language-javascript/)
+[Passo a Passo para criação deste projeto!](https://circleci.com/docs/2.0/language-javascript/)
 
 [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-javascript-react-app.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-javascript-react-app)
 
